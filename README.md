@@ -27,4 +27,4 @@ A Python tool to convert PDF files into Excel spreadsheets. This program support
 1. Clone this repository:
    ```bash
    git clone https://github.com/Chidanand111/PDF-TO-EXCEL.git
-   cd pdf-to-excel
+   cd PDF-TO-EXCEL
