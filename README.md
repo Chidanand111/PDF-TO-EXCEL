@@ -28,3 +28,6 @@ A Python tool to convert PDF files into Excel spreadsheets. This program support
    ```bash
    git clone https://github.com/Chidanand111/PDF-TO-EXCEL.git
    cd PDF-TO-EXCEL
+2. Required dependencies
+   '''bash
+   pip install pandas pdfplumber
